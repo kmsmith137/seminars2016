@@ -20,7 +20,7 @@
 
  - Nov 8:
 
- - Nov 15:
+ - Nov 15: Mathew Madhavacheril (tentative)
 
  - Nov 22:
 
