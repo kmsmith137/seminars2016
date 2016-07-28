@@ -8,7 +8,7 @@
 
  - Sept 27:
 
- - Oct 4:
+ - Oct 4: Latham Boyle
 
  - Oct 11:
 
