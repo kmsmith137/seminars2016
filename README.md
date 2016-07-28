@@ -1,1 +1,33 @@
-# seminars2016
+# Fall
+
+ - Sept 6:
+
+ - Sept 13:
+
+ - Sept 20:
+
+ - Sept 27:
+
+ - Oct 4:
+
+ - Oct 11:
+
+ - Oct 18:
+
+ - Oct 25:
+
+ - Nov 1:
+
+ - Nov 8:
+
+ - Nov 15:
+
+ - Nov 22:
+
+ - Nov 29:
+
+ - Dec 6:
+
+ - Dec 13:
+
+ - Dec 20:
