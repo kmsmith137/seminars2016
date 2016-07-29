@@ -1,4 +1,4 @@
-# Fall
+## Fall 2016
 
  - Sept 6:
 
@@ -10,7 +10,7 @@
 
  - Oct 4: Latham Boyle
 
- - Oct 11:
+ - Oct 11: Moritz Munchmeyer
 
  - Oct 18:
 
