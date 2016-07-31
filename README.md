@@ -2,7 +2,7 @@
 
  - Sept 6:
 
- - Sept 13:
+ - Sept 13: Doddy Marsh
 
  - Sept 20:
 
