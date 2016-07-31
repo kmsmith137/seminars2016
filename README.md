@@ -12,7 +12,7 @@
 
  - Oct 11: Moritz Munchmeyer
 
- - Oct 18:
+ - Oct 18: Simon Foreman
 
  - Oct 25:
 
