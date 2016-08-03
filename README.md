@@ -1,6 +1,6 @@
 ## Fall 2016
 
- - Sept 6:
+ - Sept 6: Angelika Fertig
 
  - Sept 13: Doddy Marsh
 
