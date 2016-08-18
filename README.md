@@ -2,7 +2,7 @@
 
  - Sept 6: Angelika Fertig
  - Sept 13: Doddy Marsh
- - Sept 20:
+ - Sept 20: Matteo Fasiello
  - Sept 27:
  - Oct 4: Latham Boyle
  - Oct 11: Moritz Munchmeyer
