@@ -7,7 +7,7 @@
  - Oct 4: 
  - Oct 11: Moritz Munchmeyer
  - Oct 18: Simon Foreman
- - Oct 25:
+ - Oct 25: Anna Ijjas
  - Nov 1:
  - Nov 8:  Mehrdad Mirbabayi
  - Nov 15: Mathew Madhavacheril (tentative)
