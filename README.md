@@ -14,7 +14,7 @@
  - Nov 22: Moritz Munchmeyer
  - Nov 29:
  - Dec 6:
- - Dec 13:
+ - Dec 13: Katy Clough
  - Dec 20:
 
 ## Spring 2017:
