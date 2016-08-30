@@ -5,13 +5,13 @@
  - Sept 20: Matteo Fasiello
  - Sept 27: Adrian Liu
  - Oct 4: Emmanuel Schaan
- - Oct 11: Moritz Munchmeyer
+ - Oct 11: Jim Mertens
  - Oct 18: Simon Foreman
  - Oct 25: Anna Ijjas
  - Nov 1:
  - Nov 8:  Mehrdad Mirbabayi
  - Nov 15: Mathew Madhavacheril (tentative)
- - Nov 22:
+ - Nov 22: Moritz Munchmeyer
  - Nov 29:
  - Dec 6:
  - Dec 13:
