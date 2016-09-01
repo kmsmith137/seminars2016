@@ -12,7 +12,7 @@
  - Nov 8:  Mehrdad Mirbabayi
  - Nov 15: Mathew Madhavacheril (tentative)
  - Nov 22: Moritz Munchmeyer
- - Nov 29:
+ - Nov 29: Mairi Sakellariadou
  - Dec 6:
  - Dec 13: Katy Clough
  - Dec 20:
