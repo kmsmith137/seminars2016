@@ -8,7 +8,7 @@
  - Oct 11: Jim Mertens
  - Oct 18: Simon Foreman
  - Oct 25: Anna Ijjas
- - Nov 1:
+ - Nov 1: Thomas Bachlechner
  - Nov 8:  Mehrdad Mirbabayi
  - Nov 15: Mathew Madhavacheril (tentative)
  - Nov 22: Moritz Munchmeyer
