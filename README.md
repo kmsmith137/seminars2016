@@ -36,3 +36,4 @@
  - Apr 11:
  - Apr 18:
  - Apr 25:
+ - June 20: Chris Hirata
