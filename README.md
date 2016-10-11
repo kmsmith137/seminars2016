@@ -7,11 +7,11 @@
  - Oct 4: Emmanuel Schaan
  - Oct 11: Jim Mertens
  - Oct 18: Simon Foreman
- - Oct 25: Anna Ijjas
+ - Oct 25: Moritz Munchmeyer
  - Nov 1: Thomas Bachlechner
  - Nov 8:  Mehrdad Mirbabayi
  - Nov 15: Mathew Madhavacheril (tentative)
- - Nov 22: Moritz Munchmeyer
+ - Nov 22: 
  - Nov 29: Mairi Sakellariadou
  - Dec 6:
  - Dec 13: Katy Clough
