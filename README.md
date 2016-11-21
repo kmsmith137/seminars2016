@@ -10,7 +10,7 @@
  - Oct 25: Moritz Munchmeyer
  - Nov 1: Thomas Bachlechner
  - Nov 8:  Mehrdad Mirbabayi
- - Nov 15: Mathew Madhavacheril (tentative)
+ - Nov 15: Mathew Madhavacheril
  - Nov 22: 
  - Nov 29: Mairi Sakellariadou
  - Dec 6:
@@ -20,8 +20,8 @@
 ## Spring 2017:
 
  - Jan 3: 
- - Jan 10: 
- - Jan 17: 
+ - Jan 11: Mike Niemack (note special time!)
+ - Jan 17: Dustin Lang (tentative)
  - Jan 24: 
  - Jan 31: 
  - Feb 7: 
