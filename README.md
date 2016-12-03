@@ -21,8 +21,8 @@
 
  - Jan 3: 
  - Jan 11: Mike Niemack (note Wednesday instead of Tuesday)
- - Jan 17: Dustin Lang (tentative)
- - Jan 24: 
+ - Jan 17: Kendrick Smith
+ - Jan 24: Dustin Lang
  - Jan 31: 
  - Feb 7: 
  - Feb 14: 
