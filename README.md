@@ -15,7 +15,7 @@
  - Nov 29: Mairi Sakellariadou
  - Dec 6: Elisa Ferreira
  - Dec 13: Katy Clough
- - Dec 20:
+ - Dec 20: Anna Ijjas
 
 ## Spring 2017:
 
