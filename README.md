@@ -13,7 +13,7 @@
  - Nov 15: Mathew Madhavacheril
  - Nov 22: 
  - Nov 29: Mairi Sakellariadou
- - Dec 6:
+ - Dec 6: Elisa Ferreira
  - Dec 13: Katy Clough
  - Dec 20:
 
