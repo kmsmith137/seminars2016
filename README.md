@@ -23,11 +23,11 @@
  - Jan 11: Mike Niemack (note Wednesday instead of Tuesday)
  - Jan 17: Kendrick Smith
  - Jan 24: Dustin Lang
- - Jan 31: 
+ - Jan 31: Jing Ren
  - Feb 7: 
  - Feb 14: 
- - Feb 21: 
- - Feb 28: Mark Trodden
+ - Feb 21: Daan Meerburg
+ - Feb 28: 
  - Mar 7: Scott Ransom
  - Mar 14: 
  - Mar 21: 
@@ -35,5 +35,5 @@
  - Apr 4:
  - Apr 11:
  - Apr 18:
- - Apr 25:
+ - Apr 25: Mark Trodden
  - June 20: Chris Hirata
