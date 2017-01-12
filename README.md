@@ -22,12 +22,12 @@
  - Jan 3: 
  - Jan 11: Mike Niemack (note Wednesday instead of Tuesday)
  - Jan 17: Kendrick Smith
- - Jan 24: Dustin Lang
+ - Jan 24: [ PI day, no seminar this week ]
  - Jan 31: Jing Ren
  - Feb 7: 
  - Feb 14: 
  - Feb 21: Daan Meerburg
- - Feb 28: 
+ - Feb 28: Dustin Lang
  - Mar 7: Scott Ransom
  - Mar 14: 
  - Mar 21: 
