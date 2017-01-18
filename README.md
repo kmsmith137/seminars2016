@@ -24,7 +24,7 @@
  - Jan 17: Kendrick Smith
  - Jan 24: [ PI day, no seminar this week ]
  - Jan 31: Jing Ren
- - Feb 7: 
+ - Feb 7:  John Ellis
  - Feb 14: 
  - Feb 21: Daan Meerburg
  - Feb 28: Dustin Lang
