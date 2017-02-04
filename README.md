@@ -30,7 +30,7 @@
  - Feb 28: 
  - Mar 7: Scott Ransom
  - Mar 14: Dustin Lang
- - Mar 21: Manoj Kaplinghat (tentative)
+ - Mar 21: 
  - Mar 28: 
  - Apr 4:
  - Apr 11:
