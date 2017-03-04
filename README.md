@@ -36,4 +36,6 @@
  - Apr 11:
  - Apr 18:
  - Apr 25: Mark Trodden
+ - May 2:
+ - May 11: Ludo van Waerbeke (note Thursday instead of Tuesday)
  - June 20: Chris Hirata
