@@ -33,9 +33,12 @@
  - Mar 21: Dustin Lang
  - Mar 28: Emanuela Dimastrogiovanni 
  - Apr 4:
- - Apr 11:
+ - Apr 11: Alex van Engelen
  - Apr 18:
  - Apr 25: Mark Trodden
  - May 2:
  - May 11: Ludo van Waerbeke (note Thursday instead of Tuesday)
+ - May 16: Jeff Peterson
+ - May 23:
+ - May 30: Julio Navarro
  - June 20: Chris Hirata
