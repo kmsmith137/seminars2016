@@ -36,7 +36,7 @@
  - Apr 11: Alex van Engelen
  - Apr 18:
  - Apr 25: Mark Trodden
- - May 2:
+ - May 2: Shane Davis
  - May 11: Ludo van Waerbeke (note Thursday instead of Tuesday)
  - May 16: Jeff Peterson
  - May 23:
