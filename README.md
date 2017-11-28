@@ -37,8 +37,7 @@
  - Apr 18:
  - Apr 25: Mark Trodden
  - May 2: Shane Davis
- - May 11: Ludo van Waerbeke (note Thursday instead of Tuesday)
+ - May 11: Ludo van Waerbeke <waerbeke@physics.ubc.ca>
  - May 16: Jeff Peterson
- - May 23:
+ - May 23: Katie Freese
  - May 30: Julio Navarro
- - June 20: Chris Hirata
